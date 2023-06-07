@@ -6,6 +6,16 @@ lab-16-server-d53-dev.us-east-2.elasticbeanstalk.com
 
 ## CLI Deploy Link:
 
+I am so confused with what exactly this is looking for, wasted an hour trying to find what it is or means, but at this point I'm assuming there's something I've done wrong or am not understanding. 
+
+## UML 
+
+Just to be clear, this came from: 
+> https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts-webserver.html
+
+[UML for Lab 16](/lab-16-uml.png)
+
+
 
 
 ## For React Applications
