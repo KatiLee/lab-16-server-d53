@@ -1,5 +1,13 @@
 # package.json Notes
 
+## GUI Deploy Link:
+
+lab-16-server-d53-dev.us-east-2.elasticbeanstalk.com
+
+## CLI Deploy Link:
+
+
+
 ## For React Applications
 
 To deploy your application at GitHub pages, you'll need to add a home page property to your package.json which points to the deployed base URL of your GitHub Pages site.
